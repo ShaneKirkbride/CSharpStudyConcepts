@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|c:\\users\\shane\\source\\repos\\csharpstudyconcepts\\csharpstudyconcepts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|solutionrelative:csharpstudyconcepts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|c:\\users\\shane\\source\\repos\\csharpstudyconcepts\\csharpstudyconcepts\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|solutionrelative:csharpstudyconcepts\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|c:\\users\\shane\\source\\repos\\csharpstudyconcepts\\csharpstudyconcepts\\protocoldecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|solutionrelative:csharpstudyconcepts\\protocoldecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|c:\\users\\shane\\source\\repos\\csharpstudyconcepts\\csharpstudyconcepts\\strategypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|solutionrelative:csharpstudyconcepts\\strategypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|c:\\users\\shane\\source\\repos\\csharpstudyconcepts\\csharpstudyconcepts\\decoratorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|solutionrelative:csharpstudyconcepts\\decoratorpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|c:\\users\\shane\\source\\repos\\csharpstudyconcepts\\csharpstudyconcepts\\singletonpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|solutionrelative:csharpstudyconcepts\\singletonpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|c:\\users\\shane\\source\\repos\\csharpstudyconcepts\\csharpstudyconcepts\\factorymethodpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|solutionrelative:csharpstudyconcepts\\factorymethodpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|c:\\users\\shane\\source\\repos\\csharpstudyconcepts\\csharpstudyconcepts\\adpaterpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93077860-F5D4-4332-A039-B59AC14D7F26}|CsharpStudyConcepts\\CsharpStudyConcepts.csproj|solutionrelative:csharpstudyconcepts\\adpaterpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\LinkedList.cs",
+              "RelativeDocumentMoniker": "CsharpStudyConcepts\\LinkedList.cs",
+              "ToolTip": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\LinkedList.cs",
+              "RelativeToolTip": "CsharpStudyConcepts\\LinkedList.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAMwGEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:24:59.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StrategyPattern.cs",
+              "DocumentMoniker": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\StrategyPattern.cs",
+              "RelativeDocumentMoniker": "CsharpStudyConcepts\\StrategyPattern.cs",
+              "ToolTip": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\StrategyPattern.cs",
+              "RelativeToolTip": "CsharpStudyConcepts\\StrategyPattern.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwFgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:14:36.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DecoratorPattern.cs",
+              "DocumentMoniker": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\DecoratorPattern.cs",
+              "RelativeDocumentMoniker": "CsharpStudyConcepts\\DecoratorPattern.cs",
+              "ToolTip": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\DecoratorPattern.cs",
+              "RelativeToolTip": "CsharpStudyConcepts\\DecoratorPattern.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:14:09.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdpaterPattern.cs",
+              "DocumentMoniker": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\AdpaterPattern.cs",
+              "RelativeDocumentMoniker": "CsharpStudyConcepts\\AdpaterPattern.cs",
+              "ToolTip": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\AdpaterPattern.cs",
+              "RelativeToolTip": "CsharpStudyConcepts\\AdpaterPattern.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:13:36.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FactoryMethodPattern.cs",
+              "DocumentMoniker": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\FactoryMethodPattern.cs",
+              "RelativeDocumentMoniker": "CsharpStudyConcepts\\FactoryMethodPattern.cs",
+              "ToolTip": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\FactoryMethodPattern.cs",
+              "RelativeToolTip": "CsharpStudyConcepts\\FactoryMethodPattern.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wD0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:41:48.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SingletonPattern.cs",
+              "DocumentMoniker": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\SingletonPattern.cs",
+              "RelativeDocumentMoniker": "CsharpStudyConcepts\\SingletonPattern.cs",
+              "ToolTip": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\SingletonPattern.cs",
+              "RelativeToolTip": "CsharpStudyConcepts\\SingletonPattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:31:16.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProtocolDecoder.cs",
+              "DocumentMoniker": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\ProtocolDecoder.cs",
+              "RelativeDocumentMoniker": "CsharpStudyConcepts\\ProtocolDecoder.cs",
+              "ToolTip": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\ProtocolDecoder.cs",
+              "RelativeToolTip": "CsharpStudyConcepts\\ProtocolDecoder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:21:23.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\Program.cs",
+              "RelativeDocumentMoniker": "CsharpStudyConcepts\\Program.cs",
+              "ToolTip": "C:\\Users\\shane\\source\\repos\\CsharpStudyConcepts\\CsharpStudyConcepts\\Program.cs",
+              "RelativeToolTip": "CsharpStudyConcepts\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:31:59.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

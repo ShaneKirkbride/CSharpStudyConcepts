@@ -1,0 +1,14 @@
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\bin\Debug\net8.0\CsharpStudyConcepts.exe
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\bin\Debug\net8.0\CsharpStudyConcepts.deps.json
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\bin\Debug\net8.0\CsharpStudyConcepts.runtimeconfig.json
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\bin\Debug\net8.0\CsharpStudyConcepts.dll
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\bin\Debug\net8.0\CsharpStudyConcepts.pdb
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\obj\Debug\net8.0\CsharpStudyConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\obj\Debug\net8.0\CsharpStudyConcepts.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\obj\Debug\net8.0\CsharpStudyConcepts.AssemblyInfo.cs
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\obj\Debug\net8.0\CsharpStudyConcepts.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\obj\Debug\net8.0\CsharpStudyConcepts.dll
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\obj\Debug\net8.0\refint\CsharpStudyConcepts.dll
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\obj\Debug\net8.0\CsharpStudyConcepts.pdb
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\obj\Debug\net8.0\CsharpStudyConcepts.genruntimeconfig.cache
+C:\Users\shane\source\repos\CsharpStudyConcepts\CsharpStudyConcepts\obj\Debug\net8.0\ref\CsharpStudyConcepts.dll
